@@ -1,0 +1,1 @@
+Welcome to Day 4 of the 100 Days Coding Challenge! Today, we'll focus on the crucial Git commands for committing and pushing changes from your local machine to GitHub.
